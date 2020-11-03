@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ancientsites.xsl"?> 
+<ancient_sites>
+	<site>
+		<name language="english">Great Wall of China</name>
+		<country>China</country>
+        <location>Northern Chinese Border</location>
+		<description>A series of fortification systems generally built across the historical northern borders of China to protect and consolidate territories</description>
+		<culture>Ancient China</culture>
+		<history>
+            <period>Ancient</period>
+			<dynasty>Ming</dynasty>
+			<year range="start" era="AD">1644</year>
+		</history>
+		<dimensions>
+			<width type="average" unit="kilometer">21196</width>
+			<height type="original" unit="meter">7</height>
+			<height type="current" unit="metre">6</height>
+		</dimensions>
+		<images>
+			<image size="thumb" type="jpg" url="great-wall-thumb.jpg">thumbnail</image>
+			<image size="large" type="jpg" url="great-wall.jpg">large image</image>
+			<image size="full" type="jpg" url="great-wall-full.jpg">full image</image>
+		</images>
+        <links>
+			<overview type="general" url="hhttps://en.wikipedia.org/wiki/Great_Wall_of_China">Wikipedia</overview>
+			<overview type="detailed" url="https://www.chinahighlights.com/greatwall/how-to-visit.htm">Traveling</overview>
+		</links>
+		<notes>
+			<note type="notes">
+				The Great Wall of China is an ancient series of walls and fortifications, totaling more than 13,000 miles in length, located in northern China. Perhaps the most recognizable symbol of China and its long and vivid history, the Great Wall was originally conceived by Emperor Qin Shi Huang in the third century B.C. as a means of preventing incursions from barbarian nomads. The best-known and best-preserved section of the Great Wall was built in the 14th through 17th centuries A.D., during the Ming dynasty. Though the Great Wall never effectively prevented invaders from entering China, it came to function as a powerful symbol of Chinese civilization’s enduring strength.
+			</note>
+		</notes>
+	</site>
+	<site>
+		<name language="english">Summer Palace</name>
+		<country>China</country>
+        <location>Beijing</location>
+		<description>An imperial garden built in the Qing dynasty</description>
+		<culture>Imperial China</culture>
+		<history>
+            <period>Imperial</period>
+			<dynasty>Qing</dynasty>
+			<year range="start" era="AD">1749</year>
+		</history>
+		<dimensions>
+			<area type="average" unit="hectare">297</width>
+		</dimensions>
+		<images>
+			<image size="thumb" type="jpg" url="summer-palace-thumb.jpg">thumbnail</image>
+			<image size="large" type="jpg" url="summer-palace.jpg">large image</image>
+			<image size="full" type="jpg" url="summer-palace-full.jpg">full image</image>
+		</images>
+        <links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Summer_Palace">Wikipedia</overview>
+			<overview type="detailed" url="https://www.tour-beijing.com/blog/beijing-travel/tips-for-visiting-summer-palace">Traveling</overview>
+		</links>
+		<notes>
+			<note type="notes">
+				The Summer Palace is a vast ensemble of lakes, gardens and palaces in Beijing. It was an imperial garden in the Qing dynasty. Mainly dominated by Longevity Hill and Kunming Lake, it covers an expanse of 2.9 square kilometres, three-quarters of which is water.
+			</note>
+		</notes>
+	</site>
+	<site>
+		<name language="english">Terracotta Army </name>
+		<location>Shaanxi</location>
+		<country>China</country>
+		<description>It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting the emperor in his afterlife. </description>
+		<culture>Ancient China</culture>
+		<history>
+            <period>Ancient China</period>
+			<dynasty>Qin</dynasty>
+			<year range="start" era="BC">246</year>
+		</history>
+        <dimensions>
+			<area type="average" unit="square-meters">16,300</width>
+		</dimensions>
+		<images>
+			<image size="thumb" type="jpg" url="terracotta-army-thumbnail.jpg">thumbnail</image>
+			<image size="large" type="jpg" url="terracotta-army.jpg">large image</image>
+			<image size="full" type="jpg" url="terracotta-army-full.jpg">full image</image>
+		</images>
+		<links>
+			<overview type="general" url="https://en.wikipedia.org/wiki/Terracotta_Army">Wikipedia</overview>
+			<overview type="detailed" url="https://www.chinahighlights.com/xian/terracotta-army/how-to-visit.htm">Traveling</overview>
+		</links>
+		<notes>
+			<note type="intro">
+				The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting the emperor in his afterlife.
+			</note>
+		</notes>
+	</site>
+</ancient_sites>
